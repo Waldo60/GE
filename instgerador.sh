@@ -130,7 +130,7 @@ echo "$IP" > /usr/bin/vendor_code
  # echo -e "\033[1;31m                CONTACTE A @Rufu99"
  # echo -e "\033[1;31m=====================================================\n\n\n"
  # [[ -d /etc/SCRIPT ]] && rm -rf /etc/SCRIPT
-  exit 1
+ # exit 1
   } || {
   ### INTALAR VERCION DE SCRIPT
   v1=$(curl -sSL "https://raw.githubusercontent.com/Waldo60/GENERADOR/master/Vercion")
